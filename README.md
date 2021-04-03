@@ -1,6 +1,11 @@
 # Eloquent Javascript Solutions
 
-![Eloquent Javascript Book](https://i.imgur.com/fie9Rub.jpg)
+<p align="center">
+  <a href="https://eloquentjavascript.net/" style="display: block;">
+    <img align="center" width="320" height="445" src="https://i.imgur.com/fie9Rub.jpg" alt="Eloquent Javascript Book"/>
+  </a>
+</p>
+
 
 ## About
 
